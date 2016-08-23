@@ -1564,6 +1564,7 @@
 			.wrapper.style1 .title {
 				background: #222425 url("images/overlay.png");
 				color: #fff;
+                font-family: "Trebuchet MS", Helvetica, sans-serif; /* change of font */
 			}
 
 			.wrapper.style1 h1, .wrapper.style1 h2, .wrapper.style1 h3, .wrapper.style1 h4, .wrapper.style1 h5, .wrapper.style1 h6, .wrapper.style1 strong, .wrapper.style1 b, .wrapper.style1 a {
@@ -1577,6 +1578,8 @@
 			.wrapper.style2 .title {
 				background: #fff;
 				color: #484d55;
+                font-family: "Trebuchet MS", Helvetica, sans-serif; /* change of font */
+                font-size: 20px;
 			}
 
 		.wrapper.style3 {
@@ -1586,6 +1589,8 @@
 			.wrapper.style3 .title {
 				background: #f3f3f3 url("images/overlay.png");
 				color: #484d55;
+                font-size: 20px;
+                font-family: "Trebuchet MS", Helvetica, sans-serif; /* change of font */
 			}
 
 			.wrapper.style3 .image {
@@ -1612,6 +1617,8 @@
 		background: #282b34 url("images/overlay.png");
 		color: #eee;
 		color: rgba(255, 255, 255, 0.5);
+        font-size: 20px;
+        font-family: "Trebuchet MS", Helvetica, sans-serif; /* change of font */
 	}
 
 		#footer-wrapper h1, #footer-wrapper h2, #footer-wrapper h3, #footer-wrapper h4, #footer-wrapper h5, #footer-wrapper h6, #footer-wrapper strong, #footer-wrapper b, #footer-wrapper a {
