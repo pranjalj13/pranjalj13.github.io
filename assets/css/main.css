@@ -1565,6 +1565,7 @@
 				background: #222425 url("images/overlay.png");
 				color: #fff;
                 font-family: "Trebuchet MS", Helvetica, sans-serif; /* change of font */
+                font-size: 20px;
 			}
 
 			.wrapper.style1 h1, .wrapper.style1 h2, .wrapper.style1 h3, .wrapper.style1 h4, .wrapper.style1 h5, .wrapper.style1 h6, .wrapper.style1 strong, .wrapper.style1 b, .wrapper.style1 a {
@@ -1584,6 +1585,7 @@
 
 		.wrapper.style3 {
 			background: #f3f3f3 url("images/overlay.png");
+            color: #484d55;
 		}
 
 			.wrapper.style3 .title {
